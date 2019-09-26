@@ -1,0 +1,22 @@
+h1 {
+    color: Darkgreen;
+    font-family: Georgia;
+    text-align: center;
+   
+}
+h2 {
+    font-family: Georgia;
+    text-align: center;
+} 
+body { font-size: 25px;
+    
+}
+
+.floatleft {
+float: left;
+
+}
+
+a {
+    text-decoration: none;
+}
